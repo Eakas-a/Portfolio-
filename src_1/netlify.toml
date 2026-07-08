@@ -2,7 +2,7 @@
   # Adjust to match your actual Angular build output.
   # e.g. "dist/portfolio" or "dist/portfolio/browser" depending on your
   # Angular version — check what `ng build` produces locally.
-  publish = "dist/eakas-portfolio"
+  publish = "dist/eakas-portfolio/browser"
   command = "npm run build"
   functions = "netlify/functions"
 
